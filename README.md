@@ -1,6 +1,6 @@
-# vueapp-with-jsx
+# VueApp-With-JSX
 
-> A Vue.js project
+> A Vue.js project w/ JSX
 
 ## Build Setup
 
